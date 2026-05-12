@@ -1,2 +1,9 @@
 def sumar(numeros: str) -> int:
-    return 0
+    if numeros == "":
+        return 0
+    
+    partes = numeros.split(",")
+    if len(partes) == 2:
+        return int(partes[0]) + int(partes[1])
+        
+    return int(numeros)
