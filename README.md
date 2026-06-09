@@ -1,0 +1,1 @@
+[![CI Pipeline - String Calculator](https://github.com/FranGenoud01/Repo-Genoud-Nicol-s-y-Aguado/actions/workflows/ci.yml/badge.svg)](https://github.com/FranGenoud01/Repo-Genoud-Nicol-s-y-Aguado/actions/workflows/ci.yml)
